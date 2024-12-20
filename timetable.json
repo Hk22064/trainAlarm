@@ -1,0 +1,8 @@
+{
+    "stations": [
+      { "id": 1, "name": "Tokyo", "time": "08:00" },
+      { "id": 2, "name": "Shinagawa", "time": "08:10" },
+      { "id": 3, "name": "Yokohama", "time": "08:25" }
+    ]
+  }
+  
